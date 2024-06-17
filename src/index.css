@@ -1,0 +1,58 @@
+:root {
+  --brand-color: rgba(255, 56, 92, 1);
+  --font-gray: rgba(113, 113, 113, 1);
+  --font-lightgray: rgba(146, 146, 146, 1);
+  --hover-bg: rgba(113, 113, 113, 0.1);
+  --border-gray: rgba(235, 235, 235, 1);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+#root {
+  width: 100%;
+}
+
+input[type="range"] {
+  -webkit-appearance: none; /* Webkit 브라우저에서 기본 스타일링 제거 */
+  appearance: none; /* 다른 브라우저에서 기본 스타일링 제거 */
+  background: transparent; /* 배경을 투명으로 설정 */
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 30px;
+  height: 30px;
+  background: #ffffff;
+  border: 1px solid var(--font-lightgray);
+  cursor: pointer;
+  border-radius: 50%;
+}

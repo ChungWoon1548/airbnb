@@ -1,0 +1,1769 @@
+[
+  {
+    "region": "서울",
+    "hotels": [
+      {
+        "name": "페어필드 바이 메리어트 서울",
+        "address": "서울 영등포구 영등포동1가 143-3",
+        "X": 126.909262,
+        "Y": 37.516967,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F07%2F12%2F5b472eee0884d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F07%2F12%2F5b472eee0884d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F07%2F12%2F5b472f2e49fb1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F07%2F12%2F5b472f2f499d8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F07%2F12%2F5b4730381bf99.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F07%2F12%2F5b473034627d8.jpg&w=3840&q=75"
+        ],
+        "rating": "특급\n호텔",
+        "price": "99,000"
+      },
+      {
+        "name": "글래드 여의도",
+        "address": "서울 영등포구 여의도동 17-5",
+        "X": 126.917248,
+        "Y": 37.5273885,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F08%2F07%2F5b695306dc33f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F08%2F07%2F5b695306dc33f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F09%2F10%2F613b05e2e0722.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F10%2F17%2F59e5cfdcba147.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F10%2F17%2F59e5d40eb4344.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2019%2F11%2F25%2F5ddb9638f3004.jpg&w=3840&q=75"
+        ],
+        "rating": "4성급\n호텔",
+        "price": 0
+      },
+      {
+        "name": "역삼 인트로호텔",
+        "address": "서울 강남구 역삼동 677-14",
+        "X": 127.039913,
+        "Y": 37.5027249,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72748%2F479210%2Fab94afc451c0ce2b72d429d267e60525.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72748%2F479210%2Fab94afc451c0ce2b72d429d267e60525.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72748%2F479225%2F2543d40c476b832d433b913e48c7fac5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72748%2F479227%2F6cee03c3659897c1a51e7d45343b9231.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72748%2F479207%2F36f153737fec02902eab1b416ea958ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72748%2F479210%2Fab94afc451c0ce2b72d429d267e60525.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "70,000"
+      },
+      {
+        "name": "강남 캠퍼스",
+        "address": "서울 강남구 역삼동 825-30",
+        "X": 127.02919,
+        "Y": 37.4972948,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4988%2F31328%2Fe13e9ca5a6796ccd14841168f0de4b64.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4988%2F31328%2Fe13e9ca5a6796ccd14841168f0de4b64.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4988%2F487146%2F3f008410df8c24d57ce797685c7f85d5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4988%2F376540%2F88f0a0e5f5f3b47624be224616556ffa.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4988%2F380315%2F1aaf209f0138052415974d8b9daa79bc.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4988%2F29349%2F9cf8c4dee51942dbade1c53f9f580052.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "55,100"
+      },
+      {
+        "name": "건대 더 디자이너스 프리미어-화양동",
+        "address": "서울 광진구 화양동 23-15",
+        "X": 127.067276,
+        "Y": 37.5473301,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F49461%2F8046%2F17a48e6759fbbd5e0db7f5195d52db07.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F49461%2F11412%2F569901872131f7cb52748c9419aa6009.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F49461%2F11413%2Febe5c43d6855ac09ee2c2ebd8eb85024.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F49461%2F11414%2F11dcb5bc8ad16fbb1b07b74dfd83c878.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F49461%2F11417%2F4e2fb47d28e865c143e57b31e7efe37b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F49461%2F11418%2F12b5a03e2f46d645af62bbe3c346ab87.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "65,000"
+      },
+      {
+        "name": "독산 88 HOTEL",
+        "address": "서울 금천구 독산동 296-2",
+        "X": 126.895288,
+        "Y": 37.4721756,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77208%2F555578%2F661324d6d1680956934ce871dce91ed9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77208%2F555578%2F661324d6d1680956934ce871dce91ed9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77208%2F555586%2Fea6f42cc63b0ceb68bc0bfee00709dd4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77208%2F555585%2Fb498d25e92084f4250412d291c906216.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77208%2F555584%2Ff8c1e3238024d2717d6164bd90bb3922.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77208%2F555582%2F10069eb7d1122babab4bf7ffa452ade2.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "60,000"
+      },
+      {
+        "name": "잠실 NU호텔-종합운동장점",
+        "address": "서울 송파구 잠실동 179-1",
+        "X": 127.080851,
+        "Y": 37.5109666,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50263%2F546093%2F17a1f2cd7aacb6c52b14444acb8d36ee.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50263%2F546093%2F17a1f2cd7aacb6c52b14444acb8d36ee.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50263%2F543875%2F7724e56e814c26d09d0fa9b06b280a46.jpeg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50263%2F543866%2F72d69b8a5e11d26cd0740853650118b8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50263%2F543868%2F9e41fa133c60479c4d14d109b2ef4552.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50263%2F547904%2Ff78a45ae9b8fd2a2d9a035de3a83d8c6.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "30,000"
+      },
+      {
+        "name": "왕십리 포레스타",
+        "address": "서울 성동구 도선동 27",
+        "X": 127.035281,
+        "Y": 37.5624353,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5666%2F34724%2F8e5c06c78a2c60cd163960f835d44623.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5666%2F34724%2F8e5c06c78a2c60cd163960f835d44623.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5666%2F342990%2F585d18cb569c9508d766553c0d04fd56.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5666%2F34724%2F119fa61417ffd237418530533154a83b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5666%2F488683%2F8d85c41015f014b2de07e10810f55467.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5666%2F342989%2Fe0b4c3da0f72b497fa7f49fd6cb4f6e9.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "65,100"
+      },
+      {
+        "name": "신촌 가을",
+        "address": "서울 서대문구 창천동 29-41",
+        "X": 126.937948,
+        "Y": 37.5567018,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F781%2F2265%2Fa6a5eb6710c2d1f3ae5c47f3129de18a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F781%2F2265%2Fa6a5eb6710c2d1f3ae5c47f3129de18a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F781%2F573318%2F99bfb23294803c51603464521342684e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F781%2F2268%2F84e658473e9cdb9aebd87d7f1f6357a8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F781%2F573319%2F05d2ea0e0299143b2517bda7ac0a66c9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F781%2F2265%2Fa6a5eb6710c2d1f3ae5c47f3129de18a.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "22,100"
+      },
+      {
+        "name": "이비스 스타일 앰배서더 서울 용산",
+        "address": "서울 용산구 한강로3가 40-969",
+        "X": 126.960868,
+        "Y": 37.5321508,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F02%2F19%2F5a8a688d7477d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F50686%2F17051%2Fad1709305571fc4afb74953f1f3b8f2e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F50686%2F17052%2Ff46a96fd959f2dfceefa8ac4be2ad33e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F50686%2F17053%2F8a09784426c0c6ac4d92bf808c3fbe13.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F50686%2F17054%2Faa243171a74b563899d124daa0e8223e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F50686%2F17055%2F40312ff95df4e35063c48b262a53a32b.jpg&w=3840&q=75"
+        ],
+        "rating": "4성급\n호텔",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "region": "부산",
+    "hotels": [
+      {
+        "name": "서면 City Hotel G&G",
+        "address": "부산 부산진구 부전동 521-17",
+        "X": 129.056902,
+        "Y": 35.1536032,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51759%2F8472%2Fa063d9a2a9c7058827127b142b733861.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51759%2F8472%2Fa063d9a2a9c7058827127b142b733861.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51759%2F154765%2F730ef53d46f41c3d9aed6c5ffe1ddd42.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51759%2F200696%2Fdcbb9d3fd6e5885789ab32ca23c43a7e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51759%2F154767%2Fd15ab12c5e48a31792be3a2e9aa2da3e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51759%2F482437%2Facecdef4c0c5708315dd20cfca5a5671.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,000"
+      },
+      {
+        "name": "서면 프롬에이치 레포잉 호텔",
+        "address": "부산 부산진구 부전동 129-1",
+        "X": 129.06093,
+        "Y": 35.1593382,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77285%2F25414%2F1b42e8e00ec3e8671e04df34e618aae2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77285%2F25414%2F1b42e8e00ec3e8671e04df34e618aae2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77285%2F557141%2F10ca42a606c5a2ab93f603c96a6208b6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77285%2F578728%2F57f4faa5f7b4f66ed5295e4fb0cecad9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77285%2F578729%2Ff54ba3ccfc2d1e3426abd1b857392b63.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77285%2F578734%2F19c6580c8901f70564628e07f47e68cd.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": 0
+      },
+      {
+        "name": "해운대 W레지던스호텔",
+        "address": "부산 해운대구 우동 539-10",
+        "X": 129.158467,
+        "Y": 35.162984,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F29%2F6566dc834b4ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F29%2F6566dc834b4ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F17%2F652df214c707b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F17%2F652dea1056c3f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F17%2F652dea118e6b7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F17%2F652dea125fed6.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": "68,900"
+      },
+      {
+        "name": "해운대 코티스 앰배서더 호텔",
+        "address": "부산 해운대구 중동 1381-5",
+        "X": 129.160798,
+        "Y": 35.1623116,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F03%2F31%2F6426a6b54e93f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F03%2F31%2F6426a6b54e93f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F11%2F64d5e59bb1ae6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F11%2F64d5e59cdcbe6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F11%2F64d5e59c34c67.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F11%2F64d5e59df317b.jpg&w=3840&q=75"
+        ],
+        "rating": "관광\n호텔",
+        "price": "55,100"
+      },
+      {
+        "name": "이제 부산",
+        "address": "부산 기장군 기장읍 연화리 111-1",
+        "X": 129.226758,
+        "Y": 35.2198614,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F27%2F658bbabd4841e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F18496258fbdbeea104b5425448642cfd.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F3d83f9f88977a35f16a4ec0f64365596.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2Fd60c5ef4cd27b842aca2c83d1bff60ae.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F28b71a1f56656c7adae734020f16d483.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F4a1753d208072a0d2b5741c5a1bf89a2.jpg&w=3840&q=75"
+        ],
+        "rating": "블랙\n가족호텔\n호텔",
+        "price": 0
+      },
+      {
+        "name": "래디언트 남포 호텔",
+        "address": "부산 중구 남포동6가 99",
+        "X": 129.026627,
+        "Y": 35.0981688,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F01%2F26%2F65b3736f0193c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F01%2F26%2F65b3736f0193c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F27%2F6563de0622f95.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F27%2F6563dee8cbed2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F27%2F6563deeb26d14.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F27%2F6563deec3f83c.jpg&w=3840&q=75"
+        ],
+        "rating": "관광\n호텔",
+        "price": "50,000"
+      },
+      {
+        "name": "윈덤 그랜드 부산",
+        "address": "부산 서구 암남동 123-15",
+        "X": 129.024243,
+        "Y": 35.0784549,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F01%2F31%2F65ba0fe91bc90.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F01%2F31%2F65ba0fe91bc90.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F14%2F65cc244151815.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F17%2F657edd2176fd3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F05%2F64f67ab56b394.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F04%2F64f59ccf7e449.jpg&w=3840&q=75"
+        ],
+        "rating": "5성급\n호텔",
+        "price": 0
+      },
+      {
+        "name": "베니키아 프리미어 호텔 해운대",
+        "address": "부산 해운대구 중동 1398-23",
+        "X": 129.164824,
+        "Y": 35.1622758,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F07%2F18%2F578c3585d17d2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F07%2F18%2F578c3581c368b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F05%2F18%2F573bd195c2f6f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F05%2F18%2F573bd1a7572a5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F05%2F18%2F573bd18f8d98c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2019%2F05%2F10%2F5cd507b1ec520.jpg&w=3840&q=75"
+        ],
+        "rating": "3성급\n호텔",
+        "price": 0
+      },
+      {
+        "name": "해운대 썬클라우드 호텔",
+        "address": "부산 해운대구 중동 1392-100",
+        "X": 129.162252,
+        "Y": 35.1604654,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F11%2F09%2F636af36382555.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F11%2F09%2F636af38eee59a.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F30%2F653f6ef739912.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F30%2F653f6f16a036e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F30%2F653f6f2d13153.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F10%2F30%2F653f6f4a3384a.jpg&w=3840&q=75"
+        ],
+        "rating": "레지던스\n호텔",
+        "price": "70,000"
+      }
+    ]
+  },
+  {
+    "region": "속초",
+    "hotels": [
+      {
+        "name": "속초 웨이브",
+        "address": "강원 속초시 조양동 1554-4",
+        "X": 128.589504,
+        "Y": 38.1910694,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55445%2F9300%2Fbe7b621b31a01468cfecdda330fcf47e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55445%2F9300%2Fbe7b621b31a01468cfecdda330fcf47e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55445%2F512340%2Fa3c3dd5c5c564c4125aeadda4892ecf4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55445%2F479397%2Fa619909f68b8a1233b6b8f1511458fde.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55445%2F512343%2F41ac0bd818cca463649d159e40bf88a9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55445%2F512345%2F711f6475f520ae973c7c40dda9ffa884.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "26,000"
+      },
+      {
+        "name": "썬라이즈호텔 속초",
+        "address": "강원 속초시 금호동 482-18",
+        "X": 128.588916,
+        "Y": 38.2018151,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2020%2F01%2F22%2F5e280039cc2c8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F64086%2F16880%2F571df2b09b122f58547f38e23b04fdb0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F64086%2F16881%2Fef2d9d55ce858747923fcd92934d8675.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F64086%2F16894%2F6cef327abd2b399910beede2c8fbae2a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F64086%2F16882%2Fa39d5f9c4370ad8101d6e0c45e4f31fe.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F64086%2F16883%2F1f1b5db9003aeca2bc36e1c680ccd9eb.jpg&w=3840&q=75"
+        ],
+        "rating": "레지던스\n호텔",
+        "price": 0
+      },
+      {
+        "name": "어반스테이 속초해변",
+        "address": "강원 속초시 조양동 1450-6",
+        "X": 128.601343,
+        "Y": 38.19017,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F31%2F64f01c59d72f6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F31%2F64f01c59d72f6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F06%2F08%2F629fe32de739c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F11%2F10%2F618b6260e77b8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F11%2F10%2F618b62651c4b0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F11%2F10%2F618b5d081f490.jpg&w=3840&q=75"
+        ],
+        "rating": "레지던스\n호텔",
+        "price": 0
+      },
+      {
+        "name": "속초 바다뷰 펜션",
+        "address": "강원특별자치도 속초시 교동 1022-10",
+        "X": 128.581461,
+        "Y": 38.1959883,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F05%2F17%2FHRLXw8CEB71o.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F05%2F17%2FHRLXw8CEB71o.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F05%2F17%2FDpdw6laQqGcJ.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F05%2F17%2Fq9GvrMbL3lhW.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F05%2F17%2FFeLZfxahHk0X.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F05%2F17%2FPogp0sdnJIYV.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": "89,000"
+      },
+      {
+        "name": "속초 미아모르",
+        "address": "강원 속초시 조양동 1554-1",
+        "X": 128.58923,
+        "Y": 38.1910641,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51684%2F8489%2F678b26364b154215e7e1af564dc646d7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51684%2F8489%2F678b26364b154215e7e1af564dc646d7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51684%2F286230%2Fe46fbc2b158ff47a205af974b0cf0870.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51684%2F249872%2Ff0fc72c0fe98766de74d6987288c027e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51684%2F153233%2Fc09cb7690ed23f9317b299b981f06b56.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F51684%2F153234%2Fd3f5cf9486743d49f5731cfdead807fc.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "30,000"
+      },
+      {
+        "name": "속초 호텔 해든",
+        "address": "강원 속초시 교동 1019-7",
+        "X": 128.580583,
+        "Y": 38.1970811,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72833%2F480450%2Fe136be592c41c6f0afd9ba45ede2b476.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72833%2F480450%2Fe136be592c41c6f0afd9ba45ede2b476.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72833%2F480448%2F471892f8c92a21340ac00d91a318c14f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72833%2F504830%2Fb8b9cee41da89e159253ea994ed240ee.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72833%2F480449%2F389deeb8b0978459d9fbafbaae3b11fb.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F72833%2F480450%2Fe136be592c41c6f0afd9ba45ede2b476.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,100"
+      },
+      {
+        "name": "속초 호텔 모옌",
+        "address": "강원특별자치도 속초시 조양동 1553-2",
+        "X": 128.589249,
+        "Y": 38.1903792,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73611%2F23624%2F4f0c45046526d18e7247ed1b099f8507.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73611%2F23624%2F4f0c45046526d18e7247ed1b099f8507.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73611%2F544439%2F9aa526f72dd985b717eb46747d57a805.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73611%2F495179%2F4275e1cafcc3441c81b465be05f0648a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73611%2F526978%2F4335568561f6c03b751cc0b8bbf1716f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73611%2F495181%2Fe9d25e224ff76a48967cdf3bbe9a73df.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "49,100"
+      },
+      {
+        "name": "속초 리츠호텔",
+        "address": "강원 속초시 동명동 2",
+        "X": 128.599598,
+        "Y": 38.212669,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5019%2F510519%2Fda25dc6a57269a130a9ecca2d6e72e61.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5019%2F510519%2Fda25dc6a57269a130a9ecca2d6e72e61.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5019%2F510617%2F6d60a00f8e98807a3deef05f5cfb2366.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5019%2F482087%2F3698917446497e764a830eaf0f186c9d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5019%2F563659%2F4567b5405107fd4a7957fe688a4de996.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5019%2F510521%2Fdc0d2478a2c636cd1cbd504b1644dbb6.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "25,000"
+      },
+      {
+        "name": "롯데리조트 속초",
+        "address": "강원 속초시 대포동 699-1",
+        "X": 128.610801,
+        "Y": 38.1801318,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2019%2F03%2F05%2F5c7e13dea1f9e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2Fd6df27db1721d153a69aaf17d1435f22.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2Ff31f81e34f7c63f3e2379e4277caad03.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2Ff457dd8d15d1ba48b7a4eefc4a35dc31.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2Fc78fd5cc70f012b61eaf862c54913e60.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F3632afcfc63a466ee5485c748854ece3.jpg&w=3840&q=75"
+        ],
+        "rating": "블랙\n4성급\n호텔",
+        "price": "227,000"
+      },
+      {
+        "name": "청초호베스트호텔",
+        "address": "강원 속초시 조양동 1558-2",
+        "X": 128.592387,
+        "Y": 38.1908322,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F23%2F623ab8dd178a6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F23%2F623ab8dd178a6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F23%2F623ab8746f3fd.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F23%2F623ab6ae138be.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F23%2F623ab6ad06aae.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F23%2F623ab6abf2d4c.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "region": "강릉",
+    "hotels": [
+      {
+        "name": "강릉 경포 오션힐펜션",
+        "address": "강원 강릉시 안현동 222-21",
+        "X": 128.895578,
+        "Y": 37.813921,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F02%2F22%2F13%2F03f1f15f45a14947b89e0612a6af142e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F02%2F22%2F13%2F03f1f15f45a14947b89e0612a6af142e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F02%2F22%2F12%2Fe4d00140c7444d6893a54dfa3655e65d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F02%2F22%2F12%2F450e79d022114ee9be1f18d12af50e4e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F02%2F22%2F12%2Fc2415be7178a45bf8e40f4e8ab4058f8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F02%2F22%2F12%2F152ef160fd6441dd882f74ebaba5e1ba.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": 0
+      },
+      {
+        "name": "강릉 더뷰스파펜션",
+        "address": "강원 강릉시 주문진읍 주문리 829-8",
+        "X": 128.826474,
+        "Y": 37.9061674,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F13%2F65017355ddef1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F13%2F65017355ddef1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F13%2F65017356d75d8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F13%2F65017358dfa3a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F13%2F65017357da8ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F13%2F65017359db70d.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": 0
+      },
+      {
+        "name": "경포대 오션호텔",
+        "address": "강원 강릉시 강문동 302-5",
+        "X": 128.91271,
+        "Y": 37.799285,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5333%2F436973%2Fb594bca105693fe2154c06282f8d0e53.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5333%2F436973%2Fb594bca105693fe2154c06282f8d0e53.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5333%2F436971%2Fc5fe4c78c6c82ccedabd2d9c10782c2f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5333%2F436974%2Fa7347f71516ca6ebd1a70c23b2f2a28b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5333%2F436972%2F320635b2311efe2c78e4db8bd29e110a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5333%2F256304%2F37bff4d57e9b719962680e5f1022a3e6.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "50,000"
+      },
+      {
+        "name": "강릉 Cn6풀빌라",
+        "address": "강원 강릉시 안현동 840-7",
+        "X": 128.894512,
+        "Y": 37.8144246,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F15%2F657c0461522dc.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F15%2F657c0461522dc.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F15%2F657c07024318f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F15%2F657c070489933.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F15%2F657c05aac05de.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F15%2F657c0707e3737.jpg&w=3840&q=75"
+        ],
+        "rating": "풀빌라\n펜션",
+        "price": 0
+      },
+      {
+        "name": "경포 호텔이코노미",
+        "address": "강원 강릉시 안현동 857-6",
+        "X": 128.902661,
+        "Y": 37.8067533,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F19%2F64900d8978eb9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F19%2F64900d90c1811.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F19%2F64900d9d1cb10.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F19%2F64900da7d2a81.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F19%2F64900db24485f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F19%2F64900d703694c.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": "97,000"
+      },
+      {
+        "name": "강릉 페리아902 오션뷰 스파 애견동반 펜션",
+        "address": "강원특별자치도 강릉시 사천면 방동리 111-2",
+        "X": 128.876851,
+        "Y": 37.8313365,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F06%2F11%2F6BdWbxQikeRN.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F06%2F11%2F6BdWbxQikeRN.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F13%2F16%2Fz3B6R0IyVrdG.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F06%2F11%2Fws1h6AdViyc5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F06%2F11%2F06edXbK1Tkrc.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F06%2F11%2FNXTAGCRWrOq3.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": "63,400"
+      },
+      {
+        "name": "강릉 웨이블루 스파펜션",
+        "address": "강원 강릉시 주문진읍 주문리 122-27",
+        "X": 128.832218,
+        "Y": 37.9003219,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F02%2F65bc8c2b008d7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F02%2F65bc8c2b008d7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F02%2F65bc8c2d233ab.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F02%2F65bc8c2f10e1e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F02%2F65bc8c315df10.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F02%2F65bc8c3672a64.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": 0
+      },
+      {
+        "name": "강릉 W스파펜션",
+        "address": "강원 강릉시 안현동 266-1",
+        "X": 128.891699,
+        "Y": 37.8163165,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F03%2F64caedda6edfa.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F03%2F64caedda6edfa.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F19%2F6581582b734ae.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F02%2F64ca192bcdbbd.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F02%2F64ca192cae644.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F02%2F64ca195fb4147.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": 0
+      },
+      {
+        "name": "강릉 테레인바이더블류스파펜션",
+        "address": "강원 강릉시 초당동 453-3",
+        "X": 128.912991,
+        "Y": 37.7960825,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F07%2F647fe7baeb5e4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F07%2F647fe7baeb5e4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F19%2F65815440a3582.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F19%2F65815441a50bb.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F07%2F647fe7bae9625.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F07%2F647fe7b472837.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": 0
+      },
+      {
+        "name": "강릉 M스파펜션",
+        "address": "강원 강릉시 안현동 266",
+        "X": 128.891571,
+        "Y": 37.8162104,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F04%2F64cc4c1971127.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F04%2F64cc4c1971127.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F19%2F6581589b4509a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F19%2F6581589cbc217.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F04%2F64cc4ade5b3a0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F08%2F04%2F64cc4ae3ca051.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "region": "전주",
+    "hotels": [
+      {
+        "name": "전주 한옥마을 한옥고택 고을",
+        "address": "전라북도 전주시 완산구 풍남동3가 76-63",
+        "X": 127.151528,
+        "Y": 35.8162565,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75570%2F0%2F01f373b5efa76cd0ba6750bbfd03f173.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75570%2F0%2F01f373b5efa76cd0ba6750bbfd03f173.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75570%2F0%2Fdcff0190470b0225d2b4de16dbe04fc5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75570%2F0%2F855338dd3b9af6009e39aa5399f10e37.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75570%2F0%2F0d7c5e2b158fc4d644d6a6b71de3ee37.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75570%2F0%2Fa8999a8274d65ab2031f774885db6411.jpg&w=3840&q=75"
+        ],
+        "rating": "게스트하우스",
+        "price": 0
+      },
+      {
+        "name": "전주 YAJA-전주한옥마을점",
+        "address": "전북 전주시 완산구 고사동 11-12",
+        "X": 127.145284,
+        "Y": 35.8209146,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73006%2F486133%2F9a12406395760550705ef8be10850b2a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73006%2F486133%2F9a12406395760550705ef8be10850b2a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73006%2F486471%2Fa0ca38c854530f6fb73f832264040f83.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73006%2F486130%2F729b4300aece797afceb3131b72955ff.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73006%2F486131%2Fee12d78a3a3ddbd6f64ba2cb1ddabea6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73006%2F484767%2Ffad9f42c150f82232d093e235af2bbda.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,000"
+      },
+      {
+        "name": "전주 브라운도트 - 덕진점",
+        "address": "전북 전주시 덕진구 덕진동2가 200-17",
+        "X": 127.121054,
+        "Y": 35.8460681,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F67734%2F369254%2F355d9b324519c787b98281df032e7c03.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F67734%2F369254%2F355d9b324519c787b98281df032e7c03.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F67734%2F369257%2F7a38d0a863bd2a4bdd022e984e4c7a44.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F67734%2F369256%2Fb983659eb0c5d03202a6368bda9018a8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F67734%2F369258%2F909870da6ef7826323cc2c74748373e8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F67734%2F369255%2Fad341a7e01c75e60af258593a4bdf2bb.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,000"
+      },
+      {
+        "name": "전주 메이드-HOTEL MADE",
+        "address": "전북 전주시 덕진구 산정동 871-2",
+        "X": 127.169785,
+        "Y": 35.8373216,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1187%2F301374%2Fe2f49c9d5abe135ea98be21a2d2a0447.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1187%2F301374%2Fe2f49c9d5abe135ea98be21a2d2a0447.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1187%2F479196%2Fda63d32b5bd60bc9441b7ca2f5953fd4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1187%2F479197%2F11e5164da6e9ff04d4faf5326f7ecaa3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1187%2F482798%2F32f0b9aad9c6b0dfd9249c5191c240a2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1187%2F409969%2F41b7452e85ddca08370b7ec301d90e87.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "23,000"
+      },
+      {
+        "name": "전주 애플모텔",
+        "address": "전북 전주시 완산구 효자동3가 1532-3",
+        "X": 127.107356,
+        "Y": 35.8173039,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74977%2F521090%2F68e6dfbc12685430812bc9fa94cc6018.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74977%2F521090%2F68e6dfbc12685430812bc9fa94cc6018.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74977%2F521090%2Fd8726bbebb33f1a24b19bd9fdf3139ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74977%2F521091%2F643e887e04f751e0775421c62790a4dd.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74977%2F24649%2F3c92e76bbca3e94539c2dde2110bb868.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74977%2F24649%2Fff6b7fc940c7dc23106f3c1fe32c05f9.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,000"
+      },
+      {
+        "name": "전주 호텔 늘",
+        "address": "전북 전주시 덕진구 우아동2가 927-1",
+        "X": 127.172714,
+        "Y": 35.8299453,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F45946%2F486703%2Fb88d5a017cc452ff06d1083286d904e9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F45946%2F486703%2Fb88d5a017cc452ff06d1083286d904e9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F45946%2F100062%2Fe30b06972d42d91da873246cbe2acbb3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F45946%2F437840%2Fa3590b1ab33c0d05373fc1950ba004a8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F45946%2F100061%2F6258c04a8a820115c52be122c8cc119a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F45946%2F568106%2F3984c4c40c79092ebde88c6200ee1e3c.jpeg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "20,000"
+      },
+      {
+        "name": "전주 Q-큐",
+        "address": "전북 전주시 완산구 중화산동2가 139-3",
+        "X": 127.124279,
+        "Y": 35.8123399,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3554%2F277705%2F58dd76692dafb95191968a36c31f22e1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3554%2F277705%2F58dd76692dafb95191968a36c31f22e1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3554%2F277534%2F4a3541658e8aacdf660d8a6474ab6400.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3554%2F277536%2Ffecf719a0b0a1fb5f90f07769a96e765.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3554%2F277535%2Fe4f7c7688f4381bdfdc7ea2773c1697f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3554%2F275675%2Fa1a9b85088dec4bc52fbc4d7e8aa5ca9.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "25,100"
+      },
+      {
+        "name": "전주 MH HOTEL 중화산동점",
+        "address": "전북 전주시 완산구 중화산동2가 657-2",
+        "X": 127.124207,
+        "Y": 35.8161253,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F54353%2F427206%2Fea7e05166e3808a46d58dff96c547b8f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F54353%2F427206%2Fea7e05166e3808a46d58dff96c547b8f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F54353%2F427222%2F82c53717574bf8c6ae8d05128f04f258.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F54353%2F427199%2F78cbdd2cd0543b06049814fc35fea958.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F54353%2F427200%2F771cdf9eb76ce231d38c95818764674f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F54353%2F427201%2F2628ec030cf6b66e78975ac801682663.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,100"
+      },
+      {
+        "name": "전주 투썸스테이-서신점",
+        "address": "전북 전주시 완산구 서신동 966-3",
+        "X": 127.120098,
+        "Y": 35.835957,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3199%2F506887%2Faf4a985ba3c6349230843f1f8e17878b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3199%2F506887%2Faf4a985ba3c6349230843f1f8e17878b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3199%2F506881%2Faf540277350f084b51f5fac878922d1f.JPG&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3199%2F506883%2F1b5a0a905b439e5b43fc8b6a5e5de686.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3199%2F506885%2Fddbbf28fa40b4808ef8d44c03f1f5a35.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3199%2F506886%2F026f72a9f05af5e9b6047ba74d1fb93b.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "30,000"
+      }
+    ]
+  },
+  {
+    "region": "대구",
+    "hotels": [
+      {
+        "name": "대구 더스테이 낭만",
+        "address": "대구 달서구 호산동 709-5",
+        "X": 128.487009,
+        "Y": 35.8424955,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68942%2F19246%2F990d29e50097c97146c5cd917509b3e7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68942%2F19246%2F990d29e50097c97146c5cd917509b3e7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68942%2F398825%2F9080f9621907db11c4431ecda51a7a80.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68942%2F408666%2F6986835833d8eaabf625c74742c940eb.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68942%2F408668%2F9e2c8a36a9fdfb121f7ed43b5f366bda.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68942%2F408669%2F58ab211f029ef64d77a35904763c007b.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "27,100"
+      },
+      {
+        "name": "동성로 피크니크",
+        "address": "대구 중구 삼덕동2가 116-1",
+        "X": 128.601982,
+        "Y": 35.8662688,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2024%2F78859%2Fe73aefb4eb1eef44943c59a32f60a5d6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2024%2F78859%2Fe73aefb4eb1eef44943c59a32f60a5d6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2024%2F522447%2Fc9d30b4d67b71e458cb9fe01ba48b0b1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2024%2F522446%2F0cd066da0278bdf59a138ff6d19df38a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2024%2F484436%2F003e2bccfb80ac2664e40034af588032.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2024%2F12727%2Feff0ba48297cd36ba6328a884fe0b14e.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "53,000"
+      },
+      {
+        "name": "반고개 호텔 SG 도깨비",
+        "address": "대구 서구 내당동 1105-2",
+        "X": 128.573875,
+        "Y": 35.8629904,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66683%2F347514%2Fa7b11efe75cfc7421a78e2926974f71e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66683%2F347514%2Fa7b11efe75cfc7421a78e2926974f71e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66683%2F347503%2Fa376bd6ceff4ef0f82a8f8fae744f0a8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66683%2F347505%2F88a5786ab0b3fa993c9313d5f2f10e92.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66683%2F347507%2F94fd1663a6c063243368dc9e66cfbc8b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66683%2F347508%2Fe8f5be28d334f9eed56fa1b64ccec64a.JPG&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "45,000"
+      },
+      {
+        "name": "대구 브라운도트-두류점",
+        "address": "대구 달서구 두류동 150-5",
+        "X": 128.559254,
+        "Y": 35.8580715,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68010%2F18221%2F0f0eaac38f3f3f826103764c451fbe93.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68010%2F18221%2F0f0eaac38f3f3f826103764c451fbe93.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68010%2F396909%2Fe0ad5b4977e73b5d126c0f746ac79129.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68010%2F396897%2F2154b64b733db25e2062830828b10592.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68010%2F396903%2Fff0feb7ae40542e81e075ace82c5847a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F68010%2F396900%2F35a0b8ab9af3813d21dcc5f93be32845.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "59,000"
+      },
+      {
+        "name": "동성로 브라운도트",
+        "address": "대구 중구 북성로1가 80-2",
+        "X": 128.594294,
+        "Y": 35.8743551,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4282%2F25871%2Fce610eec67c530eb8997f998c24d2c9c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4282%2F25871%2Fce610eec67c530eb8997f998c24d2c9c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4282%2F25261%2Fd50ac0118ca7eae8e485ba518b6bd6d3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4282%2F25259%2Ff7d66d3965574d2c318b8cad8fc15f86.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4282%2F25257%2F00fef3354c91c193d735c09f7955ff30.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4282%2F25262%2F25c36a01cc2a6bf1ad6dad80756696a6.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "64,000"
+      },
+      {
+        "name": "동대구역 H 호텔",
+        "address": "대구 동구 신천동 339-8",
+        "X": 128.628265,
+        "Y": 35.8706376,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70320%2F436266%2F4726b1f3e6ef1f63acf10108773912b4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70320%2F436266%2F4726b1f3e6ef1f63acf10108773912b4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70320%2F436266%2F5e94ec434ddf450e49d3ff051351d8c1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70320%2F436263%2Fa36bc6e28f2aa3e56c49ed2393f9d4c1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70320%2F436265%2F1cc145b0032d74d93dcd8db67f935475.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70320%2F436264%2Fe240a63d4d6048c7ce204f0b42aa315b.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "45,000"
+      },
+      {
+        "name": "동대구역 호텔 아시아",
+        "address": "대구 동구 신천동 315-1",
+        "X": 128.62764,
+        "Y": 35.8698531,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2885%2F257205%2F999234e05f203ed669a316a746a1d808.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2885%2F257205%2F999234e05f203ed669a316a746a1d808.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2885%2F258412%2Fd88f22bbc0b951e201fbcd61fe82b008.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2885%2F17416%2F02.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2885%2F257202%2F04831a0b48d3447b7546f680261b1dd6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F2885%2F257206%2F86c5d95b603152a4528178a068745e03.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "35,100"
+      },
+      {
+        "name": "동촌유원지 SG HOTEL",
+        "address": "대구 동구 효목동 1166",
+        "X": 128.655181,
+        "Y": 35.8786956,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F62122%2F10387%2F46244b38a4bcbc12d49db34af77b0c62.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F62122%2F10387%2F46244b38a4bcbc12d49db34af77b0c62.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F62122%2F261609%2Ff0a3732c35a35a20a09287bb8b5aa45a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F62122%2F261610%2F14b1081c444c0814a1df1eea73c43878.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F62122%2F261611%2F8ee58fe5fc3b027063ea4a6e79ed81b9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F62122%2F261613%2F8ad8039fc556bd3c1d3c83803d3848e4.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "52,000"
+      },
+      {
+        "name": "상인 젠",
+        "address": "대구 달서구 진천동 119-2",
+        "X": 128.530846,
+        "Y": 35.8158661,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74220%2F506316%2Fdeaf2bdaf941e60faf49505e3ae58880.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74220%2F506316%2Fdeaf2bdaf941e60faf49505e3ae58880.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74220%2F506317%2F87e66ed057661ae8f2f6f5e537354ab0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74220%2F506316%2F905950ae95ccc9631e3c5e988433e045.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74220%2F545131%2F138b22344f7c0d26ff75c130bef00ebc.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F74220%2F573737%2F063ed468151c5287911d94a704e56dd8.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "50,000"
+      },
+      {
+        "name": "호텔크라페 성서점",
+        "address": "대구 달서구 호림동 15-1",
+        "X": 128.488516,
+        "Y": 35.8354569,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F10%2F64ab861b6f3ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F10%2F64ab861b6f3ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F10%2F64ab854020a5d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F10%2F64ab8541316f3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F10%2F64ab85645b014.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F10%2F64ab866db7734.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": "79,000"
+      }
+    ]
+  },
+  {
+    "region": "경주",
+    "hotels": [
+      {
+        "name": "경주 H Avenue 터미널점",
+        "address": "경북 경주시 노서동 181-24",
+        "X": 129.203018,
+        "Y": 35.840194,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F400%2F527720%2Fcc146103f89d7abfcc9b60c8ec5ed55f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F400%2F527720%2Fcc146103f89d7abfcc9b60c8ec5ed55f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F400%2F527720%2F614ea1ae793345135e35df743eb30549.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F400%2F527721%2Fa9c7231eb6853e282c46ae33a52d0d09.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F400%2F452714%2F8e9f4b3e772624bd33788df3cb9c9ad0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F400%2F527722%2F4aca8384176737b3f8bbd0d0c77f61e3.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "55,000"
+      },
+      {
+        "name": "경주 로즈",
+        "address": "경북 경주시 노서동 132-11",
+        "X": 129.205621,
+        "Y": 35.8411104,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F401%2F410948%2F5536470f0b65267056e857f4dc166c13.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F401%2F410948%2F5536470f0b65267056e857f4dc166c13.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F401%2F122207%2Fb4531f4c7c1846abda7f3f46792ddaab.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F401%2F5035%2Fe125cd9ac5d27795f261bb5d9b156f33.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F401%2F410948%2F5536470f0b65267056e857f4dc166c13.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F401%2F5034%2Fedfdeeac2efebb45fa8b91598649f194.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "31,000"
+      },
+      {
+        "name": "스테이 예",
+        "address": "경북 경주시 황남동 325-2",
+        "X": 129.209909,
+        "Y": 35.8341116,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F15%2F09%2F16865525479344QbN9dDUzfbvX8qG8xh.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F15%2F09%2F16865525479344QbN9dDUzfbvX8qG8xh.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F15%2F09%2F1686552782872SCnx7rrLnUBeLaIJBFW.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F15%2F09%2F16865531281286Xnloc96MhzWH9I6GZ3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F15%2F09%2F16865532813894hSm6p52pZOyiczhLOv.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F15%2F09%2F16865534968058bWYDd24DQkk95EJyeb.jpg&w=3840&q=75"
+        ],
+        "rating": "풀빌라\n펜션",
+        "price": "290,000"
+      },
+      {
+        "name": "경주 리우네 키즈 풀빌라 펜션",
+        "address": "경북 경주시 하동 744-2",
+        "X": 129.310957,
+        "Y": 35.7960082,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F16%2F16%2FkyZVAT51HMYe.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F16%2F16%2FkyZVAT51HMYe.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F16%2F15%2Fhl7OqNnoyV8Q.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F16%2F15%2Fl7cposEqPYnf.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F16%2F15%2FAikbuCqMPrQj.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F16%2F15%2F3QEWFULZCdtH.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": "69,100"
+      },
+      {
+        "name": "경주 CELL27 독채풀빌라&스파펜션",
+        "address": "경북 경주시 감포읍 팔조리 120",
+        "X": 129.473149,
+        "Y": 35.7851412,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F01%2F17%2F09%2F6455be77-7feb-4131-9ea5-a6d59e820be0-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F01%2F17%2F09%2F6455be77-7feb-4131-9ea5-a6d59e820be0-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F01%2F17%2F09%2F635a736c-adea-4be6-9aa5-4fe2626be7cb-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F01%2F17%2F09%2F62eef5bb-e69c-4675-ac80-719dd99ac649-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F01%2F17%2F09%2F06a8b4b3-279f-4155-a1eb-8c57fc305d8e-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F01%2F17%2F09%2F1172c093-de4a-45c3-816e-9406bf616372-original.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": 0
+      },
+      {
+        "name": "경주 프룩스플럭스",
+        "address": "경북 경주시 양남면 하서리 12-1",
+        "X": 129.47076,
+        "Y": 35.6824674,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F04%2F09%2F1693189488315E0jJhkDF6EyG5e3uaZw.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F04%2F09%2F1693189488315E0jJhkDF6EyG5e3uaZw.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F04%2F09%2F1692751241216WLXDl9wlM9IX7IZSXWu.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F04%2F09%2F1693190059724JVB1INGzkgoAxI6E14Q.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F04%2F09%2F16931902786673RYdrkp1OhsjWegQGAF.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F04%2F09%2F1693190341966s4cKraV3F0dOeSoadCX.jpg&w=3840&q=75"
+        ],
+        "rating": "풀빌라\n펜션",
+        "price": "116,000"
+      },
+      {
+        "name": "경주 JI 부티끄 호텔",
+        "address": "경북 경주시 충효동 2971-1",
+        "X": 129.183217,
+        "Y": 35.8437089,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73984%2F23862%2Fb303896f95e432536805150cc45ae255.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73984%2F23862%2Fb303896f95e432536805150cc45ae255.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73984%2F502590%2F566f50ec54f661e32da0d3a0209c8cbd.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73984%2F502589%2F7cd79219ceccb857a6ec738e833da0f6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73984%2F502583%2Ff446258ad4f551e18cca1943ad514fa7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73984%2F502584%2F7be9b92cf2f48d1c8475e12010159663.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "25,000"
+      },
+      {
+        "name": "경주 코모도호텔",
+        "address": "경북 경주시 신평동 410-2",
+        "X": 129.285137,
+        "Y": 35.8444093,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F09%2F07%2F63181dece26c9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F7313%2F19229%2Fddfc38d707b2fa20985fe8b7222abde2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F7313%2F19230%2Ff8fdcf44e778020b26f3dca3b70a5c09.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F7313%2F19231%2F10af91e1b9dd5d9f6294e2a147b0c175.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F7313%2F19232%2Fd8dd4da1e4a7b52af1c8d3407caf0a6e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F7313%2F19233%2F4c7994ba8c3c4d98bec8d32d04e47360.jpg&w=3840&q=75"
+        ],
+        "rating": "4성급\n호텔",
+        "price": 0
+      },
+      {
+        "name": "용장글램핑",
+        "address": "경북 경주시 내남면 용장리 1288-7",
+        "X": 129.202289,
+        "Y": 35.7749536,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F13%2F10%2Fc64d18bed6da4ebdb8574a08e2c444b2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F13%2F10%2Fc64d18bed6da4ebdb8574a08e2c444b2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F13%2F10%2F567fe615717648188728d5048569870b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F13%2F10%2F802f5541bce8436b9d958896f15d03e2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F13%2F10%2F4316f9004fc84d38af5281d47a5838bb.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F13%2F10%2F16889677631553ElYqyIe5eBAdQD77YZ.jpg&w=3840&q=75"
+        ],
+        "rating": "캠핑",
+        "price": "150,000"
+      },
+      {
+        "name": "경주 호텔 시리즈",
+        "address": "경북 경주시 노서동 160-11",
+        "X": 129.202414,
+        "Y": 35.8407727,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F404%2F4185%2Fc7aab8c424d2dae60562ccdda80b9565.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F404%2F4185%2Fc7aab8c424d2dae60562ccdda80b9565.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F404%2F240455%2F55985243b13c38b8cfa64417fe9fc69c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F404%2F11635%2F6cf6d4f23a9a7446281db7e57b8fd7d4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F404%2F4188%2Fc9ea0c3338ce69f217782075fec80626.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F404%2F4185%2F8777fe3aa70cce6b036bf8d491bbd061.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "50,000"
+      }
+    ]
+  },
+  {
+    "region": "여수",
+    "hotels": [
+      {
+        "name": "여수 스테이 새록",
+        "address": "전남 여수시 교동 467",
+        "X": 127.733788,
+        "Y": 34.7396386,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77141%2F25435%2Fac46189b670ec9765d97bd57ae7126d6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77141%2F25435%2Fac46189b670ec9765d97bd57ae7126d6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77141%2F554169%2Fc96e53a234a1b25c2a96c0635f948fff.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77141%2F554170%2Fb8edd5ca314e5bfb445a705503c8a0e0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77141%2F554171%2Faf18c1b2be021c2a9cd95a40c6e5a011.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77141%2F554172%2F339ae357d37ab80d23e406198b5af9f4.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "70,000"
+      },
+      {
+        "name": "여수 르파라디 오션뷰스파펜션",
+        "address": "전남 여수시 오천동 98",
+        "X": 127.755189,
+        "Y": 34.7971876,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F15%2F655490ea94c9f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F15%2F655490ea94c9f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F06%2F65c1e4b70a294.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F06%2F65c1e4b7b2624.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F06%2F65c1e4bbe2d60.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2024%2F02%2F06%2F65c1e4b8cd885.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": "51,100"
+      },
+      {
+        "name": "헤이븐 호텔",
+        "address": "전남 여수시 돌산읍 우두리 757",
+        "X": 127.74913,
+        "Y": 34.7323793,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F12%2F30%2F658fd77461051.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F51584%2F20176%2F9c17cd08df56dae042d39cc428ab001b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F51584%2F20177%2F1bc7749ce00f73d9c1099c765b7cc252.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F51584%2F20178%2F14347b6f96d7d7bea418b51bc8417121.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F51584%2F20179%2F16bbc457d8f86568e0f425e44170d046.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F51584%2F20180%2F462409844e25174487b42a3f9fe579c6.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": "58,000"
+      },
+      {
+        "name": "여수펜션 시에스타 풀빌라&자쿠지펜션",
+        "address": "전남 여수시 화양면 안포리 682-14",
+        "X": 127.628226,
+        "Y": 34.6726043,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F05%2F08%2F16%2Fafe3a8d1-a655-440f-aa7b-24dbe5830c80-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F04%2F10%2F16%2Fa00ab77f-9551-4553-92a4-5c1f5c3f4ef8-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F05%2F03%2F11%2Fd987fe92-8d3c-4b91-a783-c800f5ddafaf-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F04%2F24%2F12%2F7f342cd2-c745-461f-8f72-c9d3bcb63da2-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F04%2F10%2F16%2Faebcbfc4-fc53-4e1b-a7a2-f6584647c0bd-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F04%2F10%2F16%2F1f5e37b8-1d76-4f6e-8913-7f78b554c207-original.jpg&w=3840&q=75"
+        ],
+        "rating": "풀빌라\n펜션",
+        "price": "55,000"
+      },
+      {
+        "name": "여수 라온피네 스파펜션",
+        "address": "전남 여수시 화양면 장수리 10-6",
+        "X": 127.614793,
+        "Y": 34.6442512,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F14%2F15%2F0c75dd08-6880-422b-8eee-fd21e6a038ba-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F14%2F15%2F0c75dd08-6880-422b-8eee-fd21e6a038ba-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F14%2F15%2Fdca07132-aa12-4f0c-8167-a06f8c3d07a7-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F14%2F15%2F289e2d11-964a-4aa0-b0af-f72be7b62026-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F14%2F15%2F69a1e1d6-acfc-4a44-9bcd-e36cb2aa295a-original.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F14%2F15%2Fb131661c-7bf9-4e3a-b843-2d814e43e233-original.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": "56,250"
+      },
+      {
+        "name": "여수 웨스트힐스 프라이빗 풀빌라",
+        "address": "전남 여수시 돌산읍 평사리 1403-5",
+        "X": 127.756964,
+        "Y": 34.7017828,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2019%2F04%2F30%2F5cc7dc02631cf.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F1236f2567aab76e0c6f65e05d1eb3314.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F074688cbe08dd616ae8cb355cdca0cc4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2Faca7ad5283ad1cfeac15baca5c758c04.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F6f942cc1b7d30c540380ebe262091dca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fexhibition%2FitemContents%2F8ccd7b9653adf527d44d3c93c7cfe82a.jpg&w=3840&q=75"
+        ],
+        "rating": "블랙\n풀빌라\n펜션",
+        "price": 0
+      },
+      {
+        "name": "여수 케이브풀빌라",
+        "address": "전남 여수시 돌산읍 평사리 1030-3",
+        "X": 127.741987,
+        "Y": 34.6634932,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F20%2F64b8e02d09206.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F20%2F64b8e02d09206.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F20%2F64b8dbf5978bf.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F20%2F64b8dbf99804e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F20%2F64b8dc295d2aa.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F20%2F64b8de1b5c7a3.jpg&w=3840&q=75"
+        ],
+        "rating": "풀빌라\n펜션",
+        "price": 0
+      },
+      {
+        "name": "여수 HOTEL GD",
+        "address": "전남 여수시 봉산동 257-1",
+        "X": 127.724714,
+        "Y": 34.7345999,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73396%2F23646%2Fc317a4a52dd9739ce86c533b1707fc0d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73396%2F23646%2Fc317a4a52dd9739ce86c533b1707fc0d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73396%2F507643%2F0a21e33e3873b201f67afa7d9bb80b0f.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73396%2F495762%2Fab7fdef1a3aaa1627375b6ae34249339.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73396%2F505434%2F260dcdb4e4d7dbfbbc41f4720889c187.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F73396%2F498147%2F59a7fc7380f27cdc7bcb849465c5c156.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "45,000"
+      },
+      {
+        "name": "깔라까따 호텔 & 리조트",
+        "address": "전남 여수시 돌산읍 평사리 1405-50",
+        "X": 127.757152,
+        "Y": 34.7068565,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F07%2F6549cfb34d4a4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F07%2F6549cfb34d4a4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F07%2F6549cfb4af17d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F11%2F07%2F6549cfb4177b8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F06%2F19%2F64900baf33ed3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F07%2F28%2F64c3447889971.jpg&w=3840&q=75"
+        ],
+        "rating": "리조트\n호텔",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "region": "대전",
+    "hotels": [
+      {
+        "name": "대전 호텔썸",
+        "address": "대전 중구 문창동 20-13",
+        "X": 127.433105,
+        "Y": 36.3223976,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5989%2F262381%2F9ca54e59693a4df848ec4f148039e44e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5989%2F262381%2F9ca54e59693a4df848ec4f148039e44e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5989%2F262378%2F91ce61b4634b142930e365cd47ffc7de.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5989%2F285688%2Fcd158899579cea0acb6d646d97832b64.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5989%2F262024%2Fd43672e5aa5df954f4553b0899fbe588.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F5989%2F37096%2F32e52e5b136bad0a8eabfbf0f9a8d82d.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "29,000"
+      },
+      {
+        "name": "롯데시티호텔 대전",
+        "address": "대전 유성구 도룡동 4-30",
+        "X": 127.392281,
+        "Y": 36.3762117,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F06%2F22%2F5769f802ec666.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F06%2F22%2F5769f8085f3a2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F06%2F22%2F5769f898c5318.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F06%2F22%2F5769f8523df2b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F12%2F05%2F58452cd8a405a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F06%2F28%2F577217a10c7bd.jpg&w=3840&q=75"
+        ],
+        "rating": "4성급\n호텔",
+        "price": "94,050"
+      },
+      {
+        "name": "대전 저스트슬립호텔-유성온천점",
+        "address": "대전 유성구 봉명동 540-10",
+        "X": 127.349538,
+        "Y": 36.354797,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F57324%2F9624%2Fb8097a186b9612a2ce17fb232ca6f3a5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F57324%2F9624%2Fb8097a186b9612a2ce17fb232ca6f3a5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F57324%2F204974%2Fc28598aed824ae03039b843b663bd6fe.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F57324%2F204973%2F22468d151a5b2f149e4421b460ff9fa5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F57324%2F204971%2F9c06cd73c7d08cef6433381636f8fd12.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F57324%2F204970%2F6ca39e2782484eb4fe5a06c6b1d0b117.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "45,100"
+      },
+      {
+        "name": "둔산 미드멜리",
+        "address": "대전 서구 둔산동 1446",
+        "X": 127.388275,
+        "Y": 36.3502981,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55117%2F513392%2Ff8f3064114b7ddd6dd54dee1e2b42859.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55117%2F513392%2Ff8f3064114b7ddd6dd54dee1e2b42859.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55117%2F513396%2F6b53014cbe5ccb555dffd00513cf8b64.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55117%2F513392%2F4d93819097e83acf39925898f54c4cbf.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55117%2F513393%2Fb2439cc2d52555e7185b7d1ddebd12b0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F55117%2F513395%2Fd3709c0db7bee547725f874252486a8d.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "50,100"
+      },
+      {
+        "name": "대전 스테이 오늘",
+        "address": "대전 중구 대흥동 31-3",
+        "X": 127.429818,
+        "Y": 36.3240405,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4730%2F4765%2F8f1fb79cf052e4701b6043a897399b20.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4730%2F4765%2F8f1fb79cf052e4701b6043a897399b20.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4730%2F544408%2F68bc5ae826cc1ea42295c0821e858535.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4730%2F544596%2F1b45275e800c7c5a0d990a4fc19e3b4b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4730%2F544597%2F59680d47454d4a2ca9a942a1992ff9a1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4730%2F544599%2Fb3b3afd9a4f9628e990d1b34d1885852.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "45,000"
+      },
+      {
+        "name": "대전 단밤호텔",
+        "address": "대전 중구 대흥동 38-7",
+        "X": 127.430366,
+        "Y": 36.3224885,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4103%2F494379%2F6e025d8fe6c2ca3164071f0a35d376ac.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4103%2F494379%2F6e025d8fe6c2ca3164071f0a35d376ac.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4103%2F494373%2F8d76d67cd24632c9838222b55351f276.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4103%2F553701%2F4f45e3306b9603f4bd9bd971724f3ef4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4103%2F553696%2F402b605883c8de4d5976453abef559fb.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F4103%2F553695%2F8caf4cc306fe7af5f495f1f6dcf57da8.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,100"
+      },
+      {
+        "name": "대전 워커스 호텔 by 아늑",
+        "address": "대전 서구 월평동 511",
+        "X": 127.362761,
+        "Y": 36.3569475,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50676%2F149447%2F42c45bcab9c1df4ff797b4f370da827d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50676%2F149447%2F42c45bcab9c1df4ff797b4f370da827d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50676%2F549337%2F5421a546ea93740c02baab461fa69ec8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50676%2F548619%2Fe732640136fde5d669ca4bb0fed7302d.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50676%2F149453%2F0c282215173946478cb5f5a11e5f8782.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F50676%2F548616%2F37b001d5132038a818f1ad57bdf77ca3.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "63,000"
+      },
+      {
+        "name": "대전 콩-대흥점",
+        "address": "대전 중구 대흥동 95-35",
+        "X": 127.430585,
+        "Y": 36.325741,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3783%2F462292%2Fc473088023239255e96f47a108f3ee38.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3783%2F462292%2Fc473088023239255e96f47a108f3ee38.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3783%2F462295%2F6afed71091714fc1e948f61494e78388.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3783%2F462289%2F605c61a9fe6e3bfed258dee7cc85b3ef.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3783%2F462290%2F4c8569a85591d2d82292e2e2f9c4a763.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F3783%2F462288%2F08a74bef7ba16968a21bba900213bce4.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "40,000"
+      },
+      {
+        "name": "중리 만월 호텔",
+        "address": "대전 대덕구 중리동 402-8",
+        "X": 127.424313,
+        "Y": 36.3604223,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F499%2F1505%2F20bea2a45c79fda9e0fb8211b24e428b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F499%2F1505%2F20bea2a45c79fda9e0fb8211b24e428b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F499%2F1505%2F20bea2a45c79fda9e0fb8211b24e428b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F499%2F1502%2F85a342f5b20562822f1094c4a490670e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F499%2F1506%2F42ed8672c5414bcc1d9e5c03716987ff.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F499%2F1504%2Fff6fe96b4acd750f9a222546566ea11f.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "100,000"
+      },
+      {
+        "name": "유성 루바토호텔",
+        "address": "대전 유성구 봉명동 440-34",
+        "X": 127.340591,
+        "Y": 36.3570756,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1128%2F503907%2F9a6df2e0ab8d699421d10599af0e7ca1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1128%2F503907%2F9a6df2e0ab8d699421d10599af0e7ca1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1128%2F501904%2F1a2de4504b771d8cca8de8e1c17a2a32.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1128%2F503935%2Faa7efc0fb44706a3a30ff0d0732cef29.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1128%2F504693%2F15bae07dcaf2113d9bda53fc89f8aba4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1128%2F504706%2F2056ddf3a206a6c6f729cbdcb5a33a72.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "56,000"
+      }
+    ]
+  },
+  {
+    "region": "제주도",
+    "hotels": [
+      {
+        "name": "라마다 제주시티 호텔",
+        "address": "제주도 제주시 이도이동 1025-8",
+        "X": 126.534348,
+        "Y": 33.4935064,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F08%2F16%2F5993caf8a7505.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F46026%2F17426%2Fbbe275164843da013f28825999f8b1f5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F46026%2F17427%2F77dfee4ebf925d0929c94c8bbf98a367.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F46026%2F17428%2F6973475f7e8e3fe2cccca63f4217d818.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F46026%2F17429%2F2219f473ceb26828ae666e02eb15b380.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F46026%2F17431%2Fc6ff43ca20f49d2cb3cc6838fcf9e9f5.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": "80,000"
+      },
+      {
+        "name": "서귀포 에이치아이-HI",
+        "address": "제주특별자치도 서귀포시 서귀동 319-2",
+        "X": 126.558986,
+        "Y": 33.2481614,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75997%2F538956%2Fac10b268885ff1fb4a72249afa3e2267.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75997%2F538956%2Fac10b268885ff1fb4a72249afa3e2267.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75997%2F539691%2Fe4677f0f6813e832a33e72871ba3c8f5.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75997%2F538953%2F66ba80c6b9c111c694651985cc33f0a1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75997%2F538950%2Fccb6b2634bdb358bae40daab51236bf4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75997%2F538951%2F2dddea5495cd425a17724bb9d586dd85.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": 0
+      },
+      {
+        "name": "오션스위츠 제주",
+        "address": "제주도 제주시 삼도이동 1260-1",
+        "X": 126.523161,
+        "Y": 33.5182754,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F04%2F12%2F58edebf180d1e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6598%2F17822%2Fa57faca4ac392c4dff09c4f1c98692cd.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6598%2F17823%2Fee1ff5b5a2a7e69ee6a86c7a5efa35b3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6598%2F17824%2Ff3514f29e99432ae2979af7ef4ab45c3.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6598%2F17825%2F4b9527486abaac66433d0046337c4ac8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6598%2F17826%2Fa1ebe90c1148d6c26151910fc1b475c4.jpg&w=3840&q=75"
+        ],
+        "rating": "특급\n호텔",
+        "price": "78,000"
+      },
+      {
+        "name": "세인트 비치 호텔",
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1269-19",
+        "X": 126.666914,
+        "Y": 33.5423958,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F06%2F64f7c0f3ce1aa.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F06%2F64f7c0f5b7402.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F06%2F64f7c137ba631.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F06%2F64f7c1388a783.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F06%2F64f7c139a46df.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F06%2F64f7c13abee6d.jpg&w=3840&q=75"
+        ],
+        "rating": "가족호텔\n호텔",
+        "price": 0
+      },
+      {
+        "name": "제주호텔더엠",
+        "address": "제주도 서귀포시 서귀동 829-5",
+        "X": 126.560731,
+        "Y": 33.2468512,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F07%2F05%2F62c388d531a5f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F07%2F05%2F62c388d531a5f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F31%2F62456dfbbe917.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F31%2F62456e44d4729.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F31%2F62456e76ebfa4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2022%2F03%2F31%2F62456e7eb7f93.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": 0
+      },
+      {
+        "name": "베스트웨스턴 제주",
+        "address": "제주도 제주시 노형동 1295-16",
+        "X": 126.481913,
+        "Y": 33.487825,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F09%2F20%2F59c1f9884002b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F09%2F20%2F59c1f9884002b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F07%2F29%2F6101ff33b04b6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F07%2F29%2F6101ff4cdb541.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F07%2F29%2F6101ff5a93065.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F09%2F20%2F59c20119514c5.jpg&w=3840&q=75"
+        ],
+        "rating": "4성급\n호텔",
+        "price": 0
+      },
+      {
+        "name": "위드스테이호텔",
+        "address": "제주특별자치도 제주시 노형동 930-5",
+        "X": 126.48383,
+        "Y": 33.4857504,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F06%2F22%2F60d1481fdfc5f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F06%2F22%2F60d1481fdfc5f.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F06%2F22%2F60d14719a8c78.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F06%2F22%2F60d1471a48bf2.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F06%2F22%2F60d1477b85d85.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F06%2F22%2F60d1477e45042.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": 0
+      },
+      {
+        "name": "호텔 골든데이지 서귀포오션",
+        "address": "제주특별자치도 서귀포시 서귀동 255-1",
+        "X": 126.567478,
+        "Y": 33.2493905,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F01%2F15%2F6001512a32444.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F01%2F15%2F6001512a32444.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F11%2F24%2F58369bb2c54ce.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2016%2F11%2F24%2F58369bde6316e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F10%2F13%2F616671af64dbe.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2018%2F11%2F08%2F5be40bb6d97d4.jpg&w=3840&q=75"
+        ],
+        "rating": "비즈니스\n호텔",
+        "price": "51,500"
+      },
+      {
+        "name": "신라스테이 제주",
+        "address": "제주특별자치도 제주시 연동 274-16",
+        "X": 126.491019,
+        "Y": 33.4855007,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2020%2F04%2F28%2F5ea7ce2d0354b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2020%2F04%2F28%2F5ea7ce2d0354b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F02%2F14%2F58a2cbcd17bbf.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F06%2F22%2F594b643648630.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F08%2F12%2F61149bfe4c116.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2017%2F02%2F15%2F58a40c0fe07f7.jpg&w=3840&q=75"
+        ],
+        "rating": "4성급\n호텔",
+        "price": "70,000"
+      },
+      {
+        "name": "제주 프레임스파빌",
+        "address": "제주특별자치도 제주시 애월읍 하귀2리 2707-2",
+        "X": 126.392466,
+        "Y": 33.4848572,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F20%2F650aac857f778.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F20%2F650aac857f778.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F20%2F650aac6f60a66.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F20%2F650aaa55ae6d7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F20%2F650aaa3c9d9b0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F09%2F20%2F650aaa3a894d2.jpg&w=3840&q=75"
+        ],
+        "rating": "펜션",
+        "price": "71,150"
+      }
+    ]
+  },
+  {
+    "region": "인천",
+    "hotels": [
+      {
+        "name": "부평 더휴식 아늑호텔 부평점",
+        "address": "인천 부평구 부평동 587-1",
+        "X": 126.727024,
+        "Y": 37.491988,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70264%2F23714%2F9f85d3b37e3ddcf1f0169d9146afc0da.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70264%2F23714%2F9f85d3b37e3ddcf1f0169d9146afc0da.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70264%2F436689%2Fb7639815af077dcdf746bb0af92ee8f0.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70264%2F434719%2F89bcc5c397284596c0705db64615618c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70264%2F436688%2Fd1d13915fb8338422bdf867c7cb65007.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F70264%2F434722%2F9f8dec1d2e490135061a39fb420165ae.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "35,100"
+      },
+      {
+        "name": "이비스 스타일 앰배서더 인천 에어포트",
+        "address": "인천 중구 운서동 3233-14",
+        "X": 126.420141,
+        "Y": 37.4811461,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2023%2F01%2F20%2F63ca2e8da7e39.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F71916%2F23834%2F15a33e49a9c45f22b52677927eaf8afa.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F71916%2F23835%2Ff901fe7f83c1653e0545625a91adb679.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F71916%2F23836%2F3bc2a7b2ed07bd603bcc815ce2ed27e4.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F71916%2F23838%2Fed8d7cd5771f9a7ec0b2cd7c560796e1.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F71916%2F23837%2Fd1988d530886212084614afbdc96e30d.jpg&w=3840&q=75"
+        ],
+        "rating": "4성급\n호텔",
+        "price": "131,560"
+      },
+      {
+        "name": "송도 센트럴파크 호텔",
+        "address": "인천 연수구 송도동 38",
+        "X": 126.637383,
+        "Y": 37.3904909,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Faffiliate%2F2021%2F09%2F06%2F6135d65899907.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6872%2F20983%2F29a49aff9a5c1e6b64d0772bf95aa838.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6872%2F20984%2F3e64d6a3b64d4784758ac12d282f8c19.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6872%2F20986%2F5d56af6264c3257c9e549773213e9c59.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6872%2F20985%2F772ce4aa3fc8db2e683af323adca07ca.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F6872%2F20987%2F54e2b92bef763d8cc4a57839599e7c93.jpg&w=3840&q=75"
+        ],
+        "rating": "특급\n호텔",
+        "price": "99,000"
+      },
+      {
+        "name": "구월 HOTEL BAY 204",
+        "address": "인천 남동구 구월동 1472-1",
+        "X": 126.702463,
+        "Y": 37.4441482,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66646%2F25225%2F4d5ef5c5901e01e5794b80a636deac97.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66646%2F25225%2F4d5ef5c5901e01e5794b80a636deac97.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66646%2F548067%2F7507b19ec613a4ee6e473a5b5933010a.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66646%2F343562%2Fd42a94f48809b0c000118481e3972066.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66646%2F343564%2F3b9b313ce9ad30b4e65a40cb38aba69c.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F66646%2F343549%2F417fb27703b49c4a60c429e3ff058974.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "60,000"
+      },
+      {
+        "name": "인천 웨스턴 그레이스 호텔 영종",
+        "address": "인천 중구 중산동 1955-1",
+        "X": 126.581448,
+        "Y": 37.4902538,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76195%2F542131%2Feb19e6beb5c1e59a3e7e02880b0033e8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76195%2F542131%2Feb19e6beb5c1e59a3e7e02880b0033e8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76195%2F542126%2F8e31375078392f148fa6c81cf3f22f62.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76195%2F542127%2Fda05c70e04ce4bdaae573ad9d3654705.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76195%2F542131%2Feb19e6beb5c1e59a3e7e02880b0033e8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76195%2F542129%2F221320e4dc68fc8e327577d23e14677e.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "35,000"
+      },
+      {
+        "name": "작전 월-月",
+        "address": "인천 계양구 작전동 904-10",
+        "X": 126.735601,
+        "Y": 37.5318947,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77099%2F554760%2F4fa61e0fddb558cb837bede1de10c004.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77099%2F554760%2F4fa61e0fddb558cb837bede1de10c004.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77099%2F554764%2F1228e966d48fd4be96416e3820ccd586.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77099%2F554757%2Fbce6d31f765d29d476d6fb827ac0c3f7.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77099%2F554760%2F4fa61e0fddb558cb837bede1de10c004.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F77099%2F554761%2F8794ad3b93d5903bba18dcc1a6ada661.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "35,000"
+      },
+      {
+        "name": "간석 골든호텔",
+        "address": "인천 남동구 간석동 212-1",
+        "X": 126.708651,
+        "Y": 37.4655356,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1954%2F1278%2Fc3a5547ed4b2e39467e75dc6fe90d1c5.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1954%2F1278%2Fc3a5547ed4b2e39467e75dc6fe90d1c5.png&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1954%2F12474%2F72a702567920b0fcb2beb2d87e86255e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1954%2F12468%2F84489377517b443df4e782b3410bffc0.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1954%2F453860%2Fd4b0dae4c1b09384956f380742371f43.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F1954%2F159734%2F65e88f4b63b7f4e94cd861624a9950b5.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "43,000"
+      },
+      {
+        "name": "서구 넘버25",
+        "address": "인천 서구 심곡동 245-10",
+        "X": 126.674202,
+        "Y": 37.5447959,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75007%2F521925%2F8d4a149fecca7740191b7c27500bfd85.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75007%2F521925%2F8d4a149fecca7740191b7c27500bfd85.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75007%2F521929%2Fee800ea38304f5388cb14559cdd1c9d8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75007%2F521945%2F2e01a4a91a7d7bf719e30f672571ef0b.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75007%2F521925%2F8d4a149fecca7740191b7c27500bfd85.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F75007%2F521923%2Fe9914ac9a53f6fae0de38367a796e2ee.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "52,000"
+      },
+      {
+        "name": "검단신도시 호텔아라",
+        "address": "인천 서구 원당동 1033-11",
+        "X": 126.71526,
+        "Y": 37.5937901,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76891%2F555018%2Fe45b678ca357d11108ea2628116678e6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76891%2F555018%2Fe45b678ca357d11108ea2628116678e6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76891%2F562578%2F33b4132e2495587ea96f6cb6a66fb981.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76891%2F555129%2Fe72502cbb3b97b00522ef4f136508274.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76891%2F555018%2Fe45b678ca357d11108ea2628116678e6.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F76891%2F555020%2F304438547f5bae54ef4f9a9bc25ab204.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "49,000"
+      },
+      {
+        "name": "부평 boutique 노리터 호텔",
+        "address": "인천 부평구 부평동 159-13",
+        "X": 126.72594,
+        "Y": 37.4917152,
+        "img_path": [
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2F960%2F5461%2F8380345fb30e1c106e2ddca8a9109428.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F960%2F11254%2F6f1cdd5f446cb6458da4167c8900b5c8.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F960%2F11253%2Ff2fa6d6ee579a556e409bd45c8fd391e.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F960%2F11252%2F3c4f4c7bfe13e7def6fe03413344c913.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F960%2F11256%2Fef1b7b62f24ab6a527d29eea39c0e6d9.jpg&w=3840&q=75",
+          "https://www.yeogi.com/_next/image?url=https%3A%2F%2Fimage.goodchoice.kr%2Fadimg_new%2FbType%2F960%2F11254%2F94ca33a7cf56c34c29589edeec32623c.jpg&w=3840&q=75"
+        ],
+        "rating": "모텔",
+        "price": "25,000"
+      }
+    ]
+  }
+]
